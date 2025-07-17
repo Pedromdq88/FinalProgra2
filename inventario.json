@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "nombre": "A31",
+    "precio": 1220.00,
+    "stock": 3,
+    "marca": Samsung",
+
+  },
+  {
+    "id": 1,
+    "nombre": "mac 62",
+    "precio": 3499.00,
+    "stock": 3,
+    "marca": apple",
+
+  },
+  {
+    "id": 3,
+    "nombre": "microfono",
+    "precio": 200.20,
+    "stock": 0,
+    "marca": logitech",
+
+  }
+]
