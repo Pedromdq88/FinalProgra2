@@ -26,7 +26,7 @@ public class Main {
 
         gestion.comprar(1);
 
-        gestion.buscarClientePorNombre("microfono");
+       // gestion.buscarClientePorNombre("microfono");
    //     gestion.comprar(3);  si hacemos esto no sera posible ya que el stock no puede ser menor que 0
 
  gestion.guardarInventarioAJSON("inventario.json");
